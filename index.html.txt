@@ -1,0 +1,804 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <meta name="robots" content="index, follow">
+    
+    <title>簡廉靜 | 毒防中心督導 ✕ PMP國際專案管理師 - 系統化助人工作者</title>
+    <meta name="description" content="擁有逾十年實務經驗的社會工作督導，具備 PMP 國際專案管理師認證與就業服務乙級。專精於高風險個案危機控管、跨網絡資源盤點與敏捷式輔導策略，結合溫柔同理與理性專案架構，建構具備永續性的社會支持系統。">
+    <meta name="keywords" content="簡廉靜, 毒防中心督導, PMP專案管理師, 社會工作, 跨網絡資源整合, 危機風險控管, 敏捷式輔導, 就業服務乙級, 系統化助人, 個案管理, 助人工作者">
+    
+    <meta property="og:title" content="簡廉靜 | 毒防中心督導 ✕ PMP國際專案管理師">
+    <meta property="og:description" content="在社會工作的感性關懷中，揉合專案管理的理性思維。探索我的跨領域職涯與豐富的人生體驗。">
+    <meta property="og:image" content="profile.png"> <meta property="og:url" content="您的GitHub Pages網址請填入此處">
+    <meta property="og:type" content="profile">
+    <meta property="profile:first_name" content="廉靜">
+    <meta property="profile:last_name" content="簡">
+
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;500;700;900&display=swap');
+        body {
+            font-family: 'Noto Sans TC', sans-serif;
+            background-color: #f8fafc;
+            background-image: radial-gradient(#e2e8f0 1px, transparent 1px);
+            background-size: 20px 20px;
+        }
+        .glass-card {
+            background: rgba(255, 255, 255, 0.98);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(0, 0, 0, 0.05);
+            box-shadow: 0 4px 20px -2px rgba(0, 0, 0, 0.03);
+        }
+        .premium-title {
+            color: #111827;
+        }
+        .trust-border {
+            border-left: 4px solid #111827;
+        }
+        .accent-color {
+            color: #d46c75;
+        }
+        .accent-bg {
+            background-color: #d46c75;
+        }
+        .ai-markdown-content p { margin-bottom: 0.5rem; }
+        .ai-markdown-content strong { color: #d46c75; font-weight: bold; }
+    </style>
+</head>
+<body class="text-gray-800 antialiased p-4 md:p-8 min-h-screen flex justify-center items-center relative">
+
+    <div id="toast" class="fixed top-10 left-1/2 transform -translate-x-1/2 bg-gray-900 text-white px-5 py-3 rounded-xl shadow-2xl opacity-0 transition-all duration-300 pointer-events-none z-[100] text-sm font-bold flex items-center gap-2 translate-y-[-20px]">
+        <i class="fa-solid fa-circle-check text-[#06C755] text-lg"></i> 
+        <span>已複製 Email 到剪貼簿！</span>
+    </div>
+
+    <main class="max-w-6xl w-full mx-auto grid grid-cols-1 md:grid-cols-3 gap-6 pb-28">
+
+        <header class="md:col-span-3 glass-card rounded-3xl p-8 md:p-10 relative overflow-hidden border-t-8 border-gray-900">
+            <div class="absolute top-0 right-0 w-64 h-64 bg-gray-200 rounded-full mix-blend-multiply filter blur-3xl opacity-50 -translate-y-1/2 translate-x-1/2"></div>
+            
+            <div class="relative z-10 flex flex-col md:flex-row items-center md:items-start gap-8">
+                <div class="w-36 h-36 rounded-full bg-white border-4 border-gray-200 p-2 flex-shrink-0 shadow-lg">
+                    <div class="w-full h-full bg-gray-50 rounded-full flex items-center justify-center overflow-hidden">
+                        <img src="profile.png" alt="簡廉靜 - 毒防中心督導與 PMP 國際專案管理師" onerror="this.src='data:image/svg+xml,%3Csvg xmlns=\'http://www.w3.org/2000/svg\' viewBox=\'0 0 24 24\' fill=\'%23cbd5e1\'%3E%3Cpath d=\'M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z\'/%3E%3C/svg%3E'" class="w-full h-full object-contain p-2">
+                    </div>
+                </div>
+                
+                <div class="text-center md:text-left flex-1">
+                    <div class="flex flex-col md:flex-row md:items-baseline gap-2 mb-2">
+                        <h1 class="text-4xl font-black accent-color tracking-tight">簡廉靜</h1>
+                        <span class="text-xl text-gray-400 font-medium tracking-wider">CHIEN LIEN CHING</span>
+                    </div>
+                    <h2 class="text-2xl font-bold text-gray-800 mb-5 tracking-wide">毒防中心督導 ✕ PMP國際專案管理師</h2>
+                    
+                    <div class="text-gray-600 leading-relaxed text-lg max-w-4xl space-y-4">
+                        <p class="font-bold text-gray-900 text-xl border-l-4 border-gray-900 pl-4">
+                            「在社會工作的感性關懷中，揉合專案管理的理性思維，建構具備彈性的助人網絡。」
+                        </p>
+                        <p class="text-[1.05rem]">
+                            擁有逾十年第一線社會觀察與助人底蘊，現任毒品危害防治中心督導。從基層紮根至團隊帶領，我深知面對高複雜度的社會議題，不能僅憑滿腔熱血。
+                        </p>
+                        <p class="text-[1.05rem]">
+                            身兼 <strong>PMP 國際專案管理師</strong>，我擅長將「溫暖同理」與「嚴謹架構」結合。透過精準的資源盤點與風險控管，不僅為深陷幽谷的服務對象提供實質引導，更致力於為團隊打造高效、永續的支持系統。
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <section class="md:col-span-3 grid grid-cols-1 md:grid-cols-3 gap-6" aria-label="核心競爭力與實務足跡">
+            
+            <article class="bg-white rounded-3xl p-8 shadow-sm hover:shadow-xl hover:-translate-y-2 transition-all duration-300 border border-gray-100 group relative overflow-hidden flex flex-col">
+                <div class="absolute -top-10 -right-10 w-32 h-32 bg-[#d46c75] rounded-full mix-blend-multiply filter blur-3xl opacity-0 group-hover:opacity-10 transition-opacity duration-500"></div>
+                <div class="w-14 h-14 rounded-2xl bg-pink-50 flex items-center justify-center mb-6 group-hover:scale-110 transition-transform duration-300">
+                    <i class="fa-solid fa-network-wired text-3xl accent-color"></i>
+                </div>
+                <h3 class="text-xl font-bold mb-3 text-gray-900">系統化助人網絡</h3>
+                <p class="text-gray-600 leading-relaxed text-sm mb-6">將 PMP 專案管理思維導入毒防個管，以清晰邏輯拆解社會資源，提升團隊輔導效率與跨網絡整合能力。</p>
+                
+                <div class="mt-auto pt-5 border-t border-gray-100 relative z-10">
+                    <h4 class="text-[10px] font-black text-gray-400 mb-3 uppercase tracking-widest">實踐足跡 / Milestone</h4>
+                    <ul class="space-y-2">
+                        <li class="flex items-center justify-between border-b border-gray-50 pb-2">
+                            <span class="font-bold text-gray-800 text-sm">法院青少年假日輔導</span>
+                            <span class="text-[11px] text-[#d46c75] bg-pink-50 px-2 py-0.5 rounded-md font-bold border border-pink-100">受邀講師</span>
+                        </li>
+                        <li class="flex items-center justify-between border-b border-gray-50 pb-2">
+                            <span class="font-bold text-gray-800 text-sm">實踐國中</span>
+                            <span class="text-xs text-gray-500 bg-gray-50 px-2 py-0.5 rounded-md font-medium">認輔老師</span>
+                        </li>
+                        <li class="flex items-center justify-between border-b border-gray-50 pb-2">
+                            <span class="font-bold text-gray-800 text-sm">伊甸基金會</span>
+                            <span class="text-xs text-gray-500 bg-gray-50 px-2 py-0.5 rounded-md font-medium">志工</span>
+                        </li>
+                        <li class="flex items-center justify-between border-b border-gray-50 pb-2">
+                            <span class="font-bold text-gray-800 text-sm">華人情感教育協會</span>
+                            <span class="text-xs text-gray-500 bg-gray-50 px-2 py-0.5 rounded-md font-medium">行政助理</span>
+                        </li>
+                    </ul>
+                </div>
+            </article>
+            
+            <article class="bg-white rounded-3xl p-8 shadow-sm hover:shadow-xl hover:-translate-y-2 transition-all duration-300 border border-gray-100 group relative overflow-hidden flex flex-col">
+                <div class="absolute -top-10 -right-10 w-32 h-32 bg-[#d46c75] rounded-full mix-blend-multiply filter blur-3xl opacity-0 group-hover:opacity-10 transition-opacity duration-500"></div>
+                <div class="w-14 h-14 rounded-2xl bg-pink-50 flex items-center justify-center mb-6 group-hover:scale-110 transition-transform duration-300">
+                    <i class="fa-solid fa-hands-holding-child text-3xl accent-color"></i>
+                </div>
+                <h3 class="text-xl font-bold mb-3 text-gray-900">深度實戰底蘊</h3>
+                <p class="text-gray-600 leading-relaxed text-sm mb-6">從戒毒、戒菸到心理治療，具備處理高張力、高風險情緒的強大抗壓性與會談技巧，穩穩接住個案。</p>
+                
+                <div class="mt-auto pt-5 border-t border-gray-100 relative z-10">
+                    <h4 class="text-[10px] font-black text-gray-400 mb-3 uppercase tracking-widest">助人與心理實務 / Psychology</h4>
+                    <ul class="space-y-2">
+                        <li class="flex items-center justify-between border-b border-gray-50 pb-2">
+                            <span class="font-bold text-gray-800 text-sm">社會心理系</span>
+                            <span class="text-xs text-gray-500 bg-gray-50 px-2 py-0.5 rounded-md font-medium">主任助教</span>
+                        </li>
+                        <li class="flex items-center justify-between border-b border-gray-50 pb-2">
+                            <span class="font-bold text-gray-800 text-sm">萬芳醫院</span>
+                            <span class="text-xs text-gray-500 bg-gray-50 px-2 py-0.5 rounded-md font-medium">心理團體觀察</span>
+                        </li>
+                        <li class="flex items-center justify-between border-b border-gray-50 pb-2">
+                            <span class="font-bold text-gray-800 text-sm">解癮戒毒協會</span>
+                            <span class="text-xs text-gray-500 bg-gray-50 px-2 py-0.5 rounded-md font-medium">團體觀察員</span>
+                        </li>
+                        <li class="flex items-center justify-between border-b border-gray-50 pb-2">
+                            <span class="font-bold text-gray-800 text-sm">戒菸專線</span>
+                            <span class="text-xs text-gray-500 bg-gray-50 px-2 py-0.5 rounded-md font-medium">諮詢員</span>
+                        </li>
+                    </ul>
+                </div>
+            </article>
+
+            <article class="bg-white rounded-3xl p-8 shadow-sm hover:shadow-xl hover:-translate-y-2 transition-all duration-300 border border-gray-100 group relative overflow-hidden flex flex-col">
+                <div class="absolute -top-10 -right-10 w-32 h-32 bg-[#d46c75] rounded-full mix-blend-multiply filter blur-3xl opacity-0 group-hover:opacity-10 transition-opacity duration-500"></div>
+                <div class="w-14 h-14 rounded-2xl bg-pink-50 flex items-center justify-center mb-6 group-hover:scale-110 transition-transform duration-300">
+                    <i class="fa-solid fa-users-viewfinder text-3xl accent-color"></i>
+                </div>
+                <h3 class="text-xl font-bold mb-3 text-gray-900">敏銳的社會洞察</h3>
+                <p class="text-gray-600 leading-relaxed text-sm mb-6">擁有極度「落地」的社會歷練。能快速共情不同階層的生命經驗，建立難能可貴的信任關係。</p>
+                
+                <div class="mt-auto pt-5 border-t border-gray-100 relative z-10">
+                    <h4 class="text-[10px] font-black text-gray-400 mb-3 uppercase tracking-widest">第一線與市場調研 / Frontline</h4>
+                    <ul class="space-y-2">
+                        <li class="flex items-center justify-between border-b border-gray-50 pb-2">
+                            <span class="font-bold text-gray-800 text-sm">裕隆汽車</span>
+                            <span class="text-xs text-gray-500 bg-gray-50 px-2 py-0.5 rounded-md font-medium">調研員</span>
+                        </li>
+                        <li class="flex items-center justify-between border-b border-gray-50 pb-2">
+                            <span class="font-bold text-gray-800 text-sm">家樂福</span>
+                            <span class="text-xs text-gray-500 bg-gray-50 px-2 py-0.5 rounded-md font-medium">收銀員</span>
+                        </li>
+                        <li class="flex items-center justify-between border-b border-gray-50 pb-2">
+                            <span class="font-bold text-gray-800 text-sm">7-11</span>
+                            <span class="text-xs text-gray-500 bg-gray-50 px-2 py-0.5 rounded-md font-medium">超商店員</span>
+                        </li>
+                    </ul>
+                </div>
+            </article>
+        </section>
+
+        <aside class="md:col-span-1 space-y-6">
+            
+            <section class="glass-card rounded-3xl p-6 trust-border border-gray-100 shadow-sm" aria-label="專業資格與認證">
+                <div class="flex items-center gap-3 mb-6 text-gray-900">
+                    <i class="fa-solid fa-certificate text-xl"></i>
+                    <h3 class="text-xl font-bold">專業資格與認證</h3>
+                </div>
+                <div class="flex flex-col gap-3">
+                    <button onclick="openModal('PMI_Certification.png', 'PMP 國際專案管理師', '證書編號：4283554 | 生效日期：2026/01/14')" class="w-full text-left bg-white p-3.5 rounded-2xl border border-gray-200 flex items-center gap-4 hover:-translate-y-1 hover:shadow-md hover:border-gray-900 transition-all duration-300 group relative">
+                        <div class="w-10 h-10 rounded-full bg-gray-50 flex items-center justify-center flex-shrink-0 group-hover:bg-gray-900 transition-colors duration-300">
+                            <i class="fa-solid fa-award text-gray-600 text-lg group-hover:text-white transition-colors"></i>
+                        </div>
+                        <div class="flex-1">
+                            <p class="font-bold text-gray-900 text-sm mb-0.5 group-hover:text-black transition-colors">PMP 國際專案管理師</p>
+                            <p class="text-[0.7rem] text-gray-500 font-medium">證書編號：4283554</p>
+                        </div>
+                        <i class="fa-solid fa-magnifying-glass-plus text-gray-300 group-hover:text-gray-500 transition-colors text-sm"></i>
+                    </button>
+                    
+                    <div class="bg-white p-3.5 rounded-2xl border border-gray-100 flex items-center gap-4">
+                        <div class="w-10 h-10 rounded-full bg-gray-50 flex items-center justify-center flex-shrink-0 border border-gray-100">
+                            <i class="fa-solid fa-id-card-clip text-gray-500 text-lg"></i>
+                        </div>
+                        <div class="flex-1">
+                            <p class="font-bold text-gray-800 text-sm mb-0.5">具社工師考試資格</p>
+                            <p class="text-[0.7rem] text-gray-400 font-medium">深厚助人理論基礎</p>
+                        </div>
+                    </div>
+                    
+                    <button onclick="openModal('就業服務乙級.png', '就業服務乙級技術士', '技術士證總編號：195-007621 | 發證日期：109年8月5日')" class="w-full text-left bg-white p-3.5 rounded-2xl border border-gray-200 flex items-center gap-4 hover:-translate-y-1 hover:shadow-md hover:border-gray-900 transition-all duration-300 group relative">
+                        <div class="w-10 h-10 rounded-full bg-gray-50 flex items-center justify-center flex-shrink-0 group-hover:bg-gray-900 transition-colors duration-300">
+                            <i class="fa-solid fa-user-check text-gray-600 text-lg group-hover:text-white transition-colors"></i>
+                        </div>
+                        <div class="flex-1">
+                            <p class="font-bold text-gray-900 text-sm mb-0.5 group-hover:text-black transition-colors">就業服務乙級技術士</p>
+                            <p class="text-[0.7rem] text-gray-500 font-medium">總編號：195-007621</p>
+                        </div>
+                        <i class="fa-solid fa-magnifying-glass-plus text-gray-300 group-hover:text-gray-500 transition-colors text-sm"></i>
+                    </button>
+
+                    <div class="bg-white p-3.5 rounded-2xl border border-gray-100 flex items-center gap-4">
+                        <div class="w-10 h-10 rounded-full bg-gray-50 flex items-center justify-center flex-shrink-0 border border-gray-100">
+                            <i class="fa-solid fa-motorcycle text-gray-500 text-lg"></i>
+                        </div>
+                        <div class="flex-1">
+                            <p class="font-bold text-gray-800 text-sm mb-0.5">重機 / 汽機車駕照</p>
+                            <p class="text-[0.7rem] text-gray-400 font-medium">具備機動性</p>
+                        </div>
+                    </div>
+
+                    <button onclick="openModal('scuba.mp4', 'PADI OW 潛水認證', '探索內太空的失重感，每一次下潛都是對未知世界的敬畏與好奇。')" class="w-full text-left bg-white p-3.5 rounded-2xl border border-gray-200 flex items-center gap-4 hover:-translate-y-1 hover:shadow-md hover:border-gray-900 transition-all duration-300 group relative">
+                        <div class="w-10 h-10 rounded-full bg-gray-50 flex items-center justify-center flex-shrink-0 group-hover:bg-gray-900 transition-colors duration-300">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-[18px] h-[18px] text-gray-600 group-hover:text-white transition-colors">
+                                <path d="M14 2h-4v2H8v2h2v1.1c-2.3.5-4 2.5-4 4.9V20c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2v-8c0-2.4-1.7-4.4-4-4.9V6h2V4h-2V2z"/>
+                            </svg>
+                        </div>
+                        <div class="flex-1">
+                            <p class="font-bold text-gray-900 text-sm mb-0.5 group-hover:text-black transition-colors">PADI OW 潛水認證</p>
+                            <p class="text-[0.7rem] text-gray-500 font-medium">Open Water Diver</p>
+                        </div>
+                        <i class="fa-solid fa-magnifying-glass-plus text-gray-300 group-hover:text-gray-500 transition-colors text-sm"></i>
+                    </button>
+
+                    <button onclick="openModal('climbing.jpg', '攀岩確保員', '在岩壁下方守護攀岩者的安全，專注與信任是這項運動的核心。')" class="w-full text-left bg-white p-3.5 rounded-2xl border border-gray-200 flex items-center gap-4 hover:-translate-y-1 hover:shadow-md hover:border-gray-900 transition-all duration-300 group relative">
+                        <div class="w-10 h-10 rounded-full bg-gray-50 flex items-center justify-center flex-shrink-0 group-hover:bg-gray-900 transition-colors duration-300">
+                            <i class="fa-solid fa-mountain text-gray-600 text-lg group-hover:text-white transition-colors"></i>
+                        </div>
+                        <div class="flex-1">
+                            <p class="font-bold text-gray-900 text-sm mb-0.5 group-hover:text-black transition-colors">攀岩確保員</p>
+                            <p class="text-[0.7rem] text-gray-500 font-medium">高壓專注與安全守護</p>
+                        </div>
+                        <i class="fa-solid fa-magnifying-glass-plus text-gray-300 group-hover:text-gray-500 transition-colors text-sm"></i>
+                    </button>
+                </div>
+            </section>
+
+            <section class="glass-card rounded-3xl p-6 border-gray-100 shadow-sm" aria-label="職涯晉升軌跡">
+                <div class="flex items-center gap-3 mb-6 text-gray-900">
+                    <i class="fa-solid fa-briefcase text-xl"></i>
+                    <h3 class="text-xl font-bold">職涯晉升軌跡</h3>
+                </div>
+                <div class="space-y-4">
+                    <h4 class="text-sm font-black text-gray-800 bg-gray-100 py-1.5 px-4 rounded-xl inline-block mb-2 tracking-wider">毒品危害防治中心</h4>
+                    
+                    <div class="ml-3 relative border-l-[3px] border-gray-100 space-y-7 pb-2 mt-4">
+                        <article class="relative pl-7">
+                            <div class="absolute -left-[9.5px] top-1 w-[16px] h-[16px] accent-bg rounded-full border-[3px] border-white shadow-sm ring-1 ring-gray-100"></div>
+                            <div class="flex flex-col sm:flex-row sm:items-center gap-2 mb-1">
+                                <p class="font-extrabold text-gray-900 text-base">督導</p>
+                                <span class="bg-pink-50 text-[#d46c75] text-xs font-bold px-2.5 py-1 rounded-md border border-pink-100 w-fit tracking-wider shadow-sm">2025/08 至今</span>
+                            </div>
+                            <p class="mt-1.5 text-gray-600 text-sm leading-relaxed">帶領個管團隊，負責跨網絡資源整合、危機案件督導與策略規劃。</p>
+                        </article>
+                        
+                        <article class="relative pl-7">
+                            <div class="absolute -left-[7.5px] top-1.5 w-[12px] h-[12px] bg-gray-300 rounded-full border-2 border-white"></div>
+                            <div class="flex flex-col sm:flex-row sm:items-center gap-2 mb-1">
+                                <p class="font-bold text-gray-700 text-[0.95rem]">資深個管員</p>
+                                <span class="bg-gray-100 text-gray-600 text-xs font-bold px-2.5 py-1 rounded-md border border-gray-200 w-fit tracking-wider shadow-sm">2024/10 晉升</span>
+                            </div>
+                            <p class="mt-1.5 text-gray-500 text-sm leading-relaxed">處理高難度複雜個案，並負責新進人員經驗傳承與指導。</p>
+                        </article>
+                        
+                        <article class="relative pl-7">
+                            <div class="absolute -left-[7.5px] top-1.5 w-[12px] h-[12px] bg-gray-300 rounded-full border-2 border-white"></div>
+                            <div class="flex flex-col sm:flex-row sm:items-center gap-2 mb-1">
+                                <p class="font-bold text-gray-700 text-[0.95rem]">個管員</p>
+                                <span class="bg-gray-100 text-gray-600 text-xs font-bold px-2.5 py-1 rounded-md border border-gray-200 w-fit tracking-wider shadow-sm">2020/09 任職</span>
+                            </div>
+                            <p class="mt-1.5 text-gray-500 text-sm leading-relaxed">深入第一線，進行關懷訪視並與高風險個案建立信任關係。</p>
+                        </article>
+                    </div>
+                </div>
+            </section>
+
+        </aside>
+
+        <section class="md:col-span-2 space-y-6" aria-label="經歷與人生體驗">
+            
+            <div class="grid grid-cols-1 sm:grid-cols-2 gap-6">
+                <article class="glass-card rounded-3xl p-6 bg-white border border-gray-100 flex flex-col justify-center relative overflow-hidden group shadow-sm hover:shadow-md hover:-translate-y-1 transition-all duration-300">
+                    <div class="absolute -top-10 -right-10 w-32 h-32 bg-[#d46c75] rounded-full mix-blend-multiply filter blur-3xl opacity-0 group-hover:opacity-10 transition-opacity duration-500"></div>
+                    <div class="relative z-10">
+                        <div class="w-12 h-12 rounded-2xl bg-pink-50 flex items-center justify-center mb-5 group-hover:scale-110 transition-transform duration-300">
+                            <i class="fa-solid fa-user-shield text-xl accent-color"></i>
+                        </div>
+                        <div class="flex items-baseline gap-1.5 mb-1">
+                            <p class="text-4xl font-black text-gray-900 tracking-tight">500<span class="text-[#d46c75]">+</span></p>
+                            <p class="text-sm font-bold text-gray-500">位個案</p>
+                        </div>
+                        <h4 class="font-bold text-gray-800 text-base mb-2">累積陪伴與深度輔導</h4>
+                        <p class="text-sm text-gray-500 leading-relaxed">穩穩接住每一個需要重生的靈魂，在數字背後，是無數次不放棄的同理與對話。</p>
+                    </div>
+                </article>
+
+                <article class="glass-card rounded-3xl p-6 bg-white border border-gray-100 flex flex-col justify-center relative overflow-hidden group shadow-sm hover:shadow-md hover:-translate-y-1 transition-all duration-300">
+                    <div class="absolute -top-10 -right-10 w-32 h-32 bg-gray-400 rounded-full mix-blend-multiply filter blur-3xl opacity-0 group-hover:opacity-10 transition-opacity duration-500"></div>
+                    <div class="relative z-10">
+                        <div class="w-12 h-12 rounded-2xl bg-gray-50 flex items-center justify-center mb-5 group-hover:bg-gray-900 transition-colors duration-300">
+                            <i class="fa-solid fa-microphone-lines text-xl text-gray-700 group-hover:text-white transition-colors duration-300"></i>
+                        </div>
+                        <p class="text-[10px] font-black text-gray-400 uppercase tracking-widest mb-1.5">Experience Sharing</p>
+                        <h4 class="font-bold text-gray-900 text-lg mb-1">法院青少年假日輔導</h4>
+                        <p class="text-xs font-bold text-gray-500 mb-3 bg-gray-50 inline-block px-2 py-0.5 rounded-md border border-gray-100">受邀擔任外部講師</p>
+                        <p class="text-sm text-gray-500 leading-relaxed">將豐富的社會觀察與實務經驗轉化為教學，引導非行青少年尋找人生新方向。</p>
+                    </div>
+                </article>
+            </div>
+
+            <section class="glass-card rounded-3xl p-6 bg-white border border-gray-100">
+                <div class="flex items-center gap-3 mb-4 text-gray-900">
+                    <i class="fa-solid fa-compass text-xl"></i>
+                    <h3 class="text-xl font-bold">人生體驗</h3>
+                </div>
+                <p class="text-sm text-gray-500 mb-4">我相信，擁有豐富多元的生活體驗，才能在助人工作中持續保有彈性與韌性。</p>
+                <div class="flex flex-col sm:flex-row gap-6">
+                    <div class="flex-1">
+                        <h4 class="text-xs font-bold text-gray-800 uppercase tracking-widest mb-3 border-b border-gray-200 pb-1">極限與自然</h4>
+                        <div class="flex flex-wrap gap-2.5">
+                            <button onclick="openModal('hiking.jpg', '台北大縱走', '踏上山林，讓大自然的開闊洗滌工作累積的疲憊。')" class="px-3.5 py-2 bg-white text-gray-700 rounded-lg text-sm border border-gray-200 hover:bg-gray-900 hover:text-white hover:border-gray-900 hover:-translate-y-1 transition-all duration-300 inline-flex items-center shadow-sm hover:shadow-md group"><i class="fa-solid fa-person-hiking mr-1.5"></i>台北大縱走 <i class="fa-solid fa-magnifying-glass-plus text-[10px] ml-1.5 opacity-30 group-hover:opacity-100"></i></button>
+                            <button onclick="openModal('freedive.jpg', '自由潛水', '在水下閉氣的寧靜時刻，是我與自己深度對話的時間。')" class="px-3.5 py-2 bg-white text-gray-700 rounded-lg text-sm border border-gray-200 hover:bg-gray-900 hover:text-white hover:border-gray-900 hover:-translate-y-1 transition-all duration-300 inline-flex items-center shadow-sm hover:shadow-md group"><i class="fa-solid fa-water mr-1.5"></i>自由潛水 <i class="fa-solid fa-magnifying-glass-plus text-[10px] ml-1.5 opacity-30 group-hover:opacity-100"></i></button>
+                            <button onclick="openModal('scuba_dive.jpg', '水肺潛水', '潛入深藍色的內太空，與海洋生物共游，學會在失重狀態下找回內心的寧靜。')" class="px-3.5 py-2 bg-white text-gray-700 rounded-lg text-sm border border-gray-200 hover:bg-gray-900 hover:text-white hover:border-gray-900 hover:-translate-y-1 transition-all duration-300 inline-flex items-center shadow-sm hover:shadow-md group"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-[14px] h-[14px] mr-1.5"><path d="M14 2h-4v2H8v2h2v1.1c-2.3.5-4 2.5-4 4.9V20c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2v-8c0-2.4-1.7-4.4-4-4.9V6h2V4h-2V2z"/></svg>水肺潛水 <i class="fa-solid fa-magnifying-glass-plus text-[10px] ml-1.5 opacity-30 group-hover:opacity-100"></i></button>
+                            <button onclick="openModal('river_tracing.jpg', '溯溪攀瀑', '逆流而上，在峽谷與冰涼的溪水中挑戰體能極限，感受大自然的力量。')" class="px-3.5 py-2 bg-white text-gray-700 rounded-lg text-sm border border-gray-200 hover:bg-gray-900 hover:text-white hover:border-gray-900 hover:-translate-y-1 transition-all duration-300 inline-flex items-center shadow-sm hover:shadow-md group"><i class="fa-solid fa-water-ladder mr-1.5"></i>溯溪攀瀑 <i class="fa-solid fa-magnifying-glass-plus text-[10px] ml-1.5 opacity-30 group-hover:opacity-100"></i></button>
+                            <button onclick="openModal('rock_climbing.jpg', '攀岩', '在岩壁上尋找下一個支點，是體力與智力的雙重考驗，每一步都需要絕對的專注。')" class="px-3.5 py-2 bg-white text-gray-700 rounded-lg text-sm border border-gray-200 hover:bg-gray-900 hover:text-white hover:border-gray-900 hover:-translate-y-1 transition-all duration-300 inline-flex items-center shadow-sm hover:shadow-md group"><i class="fa-solid fa-mountain mr-1.5"></i>攀岩 <i class="fa-solid fa-magnifying-glass-plus text-[10px] ml-1.5 opacity-30 group-hover:opacity-100"></i></button>
+                            <button onclick="openModal('snowboard.jpg', '單板滑雪', '享受速度與腎上腺素飆升的快感，訓練自己在失控邊緣找回平衡。')" class="px-3.5 py-2 bg-white text-gray-700 rounded-lg text-sm border border-gray-200 hover:bg-gray-900 hover:text-white hover:border-gray-900 hover:-translate-y-1 transition-all duration-300 inline-flex items-center shadow-sm hover:shadow-md group"><i class="fa-solid fa-person-snowboarding mr-1.5"></i>單板滑雪 <i class="fa-solid fa-magnifying-glass-plus text-[10px] ml-1.5 opacity-30 group-hover:opacity-100"></i></button>
+                            <button onclick="openModal('skiing.jpg', '雙板滑雪', '穿梭在白雪皚皚的林間，享受刻劃雪面的流暢感與純粹的快樂。')" class="px-3.5 py-2 bg-white text-gray-700 rounded-lg text-sm border border-gray-200 hover:bg-gray-900 hover:text-white hover:border-gray-900 hover:-translate-y-1 transition-all duration-300 inline-flex items-center shadow-sm hover:shadow-md group"><i class="fa-solid fa-person-skiing mr-1.5"></i>雙板滑雪 <i class="fa-solid fa-magnifying-glass-plus text-[10px] ml-1.5 opacity-30 group-hover:opacity-100"></i></button>
+                            <button onclick="openModal('paragliding.jpg', '飛行傘', '在空中俯瞰大地的壯闊，享受與風共舞的自由與平靜。')" class="px-3.5 py-2 bg-white text-gray-700 rounded-lg text-sm border border-gray-200 hover:bg-gray-900 hover:text-white hover:border-gray-900 hover:-translate-y-1 transition-all duration-300 inline-flex items-center shadow-sm hover:shadow-md group"><i class="fa-solid fa-parachute-box mr-1.5"></i>飛行傘 <i class="fa-solid fa-magnifying-glass-plus text-[10px] ml-1.5 opacity-30 group-hover:opacity-100"></i></button>
+                            <button onclick="openModal('bungee.jpg', '高空彈跳', '站在邊緣往下跳的那一刻，需要極大的勇氣；這份勇氣讓我面對任何工作挑戰都不再畏懼。')" class="px-3.5 py-2 bg-white text-gray-700 rounded-lg text-sm border border-gray-200 hover:bg-gray-900 hover:text-white hover:border-gray-900 hover:-translate-y-1 transition-all duration-300 inline-flex items-center shadow-sm hover:shadow-md group"><i class="fa-solid fa-person-falling mr-1.5"></i>高空彈跳 <i class="fa-solid fa-magnifying-glass-plus text-[10px] ml-1.5 opacity-30 group-hover:opacity-100"></i></button>
+                        </div>
+                    </div>
+                    <div class="flex-1 mt-4 sm:mt-0">
+                        <h4 class="text-xs font-bold text-gray-800 uppercase tracking-widest mb-3 border-b border-gray-200 pb-1">生活與生命美學</h4>
+                        <div class="flex flex-wrap gap-2.5">
+                            <button onclick="openModal('donation.jpg', '器官與骨髓捐贈', '簽署捐贈同意書，是對生命的另一種豁達與延續，也是助人理念最深層的實踐。')" class="px-3.5 py-2 bg-white text-gray-700 rounded-lg text-sm border border-gray-200 hover:bg-gray-900 hover:text-white hover:border-gray-900 hover:-translate-y-1 transition-all duration-300 inline-flex items-center shadow-sm hover:shadow-md group"><i class="fa-solid fa-hand-holding-heart mr-1.5 text-[#d46c75] group-hover:text-white transition-colors"></i>器官骨髓捐贈 <i class="fa-solid fa-magnifying-glass-plus text-[10px] ml-1.5 opacity-30 group-hover:opacity-100"></i></button>
+                            
+                            <button onclick="openModal(['cat1.jpg', 'cat2.mp4'], '寵物照護', '布萊是我最親密的貓咪夥伴，照顧牠的日常也柔軟了我的心。')" class="px-3.5 py-2 bg-white text-gray-700 rounded-lg text-sm border border-gray-200 hover:bg-gray-900 hover:text-white hover:border-gray-900 hover:-translate-y-1 transition-all duration-300 inline-flex items-center shadow-sm hover:shadow-md group"><i class="fa-solid fa-paw mr-1.5"></i>寵物照護 <i class="fa-solid fa-magnifying-glass-plus text-[10px] ml-1.5 opacity-30 group-hover:opacity-100"></i></button>
+                            <button onclick="openModal('dye.jpg', '藍染', '看著染料在布料上暈染出不可預測的圖案，是一種極具療癒感的創作。')" class="px-3.5 py-2 bg-white text-gray-700 rounded-lg text-sm border border-gray-200 hover:bg-gray-900 hover:text-white hover:border-gray-900 hover:-translate-y-1 transition-all duration-300 inline-flex items-center shadow-sm hover:shadow-md group"><i class="fa-solid fa-shirt mr-1.5"></i>藍染 <i class="fa-solid fa-magnifying-glass-plus text-[10px] ml-1.5 opacity-30 group-hover:opacity-100"></i></button>
+                            <button onclick="openModal('leather.jpg', '皮雕', '一槌一敲，在皮革上留下深刻的印記，考驗著專注力與耐心。')" class="px-3.5 py-2 bg-white text-gray-700 rounded-lg text-sm border border-gray-200 hover:bg-gray-900 hover:text-white hover:border-gray-900 hover:-translate-y-1 transition-all duration-300 inline-flex items-center shadow-sm hover:shadow-md group"><i class="fa-solid fa-hammer mr-1.5"></i>皮雕 <i class="fa-solid fa-magnifying-glass-plus text-[10px] ml-1.5 opacity-30 group-hover:opacity-100"></i></button>
+                            <button onclick="openModal('clay.jpg', '輕黏土', '用雙手捏造出想像中的形體，找回童心未泯的純粹快樂。')" class="px-3.5 py-2 bg-white text-gray-700 rounded-lg text-sm border border-gray-200 hover:bg-gray-900 hover:text-white hover:border-gray-900 hover:-translate-y-1 transition-all duration-300 inline-flex items-center shadow-sm hover:shadow-md group"><i class="fa-solid fa-shapes mr-1.5"></i>輕黏土 <i class="fa-solid fa-magnifying-glass-plus text-[10px] ml-1.5 opacity-30 group-hover:opacity-100"></i></button>
+                            <button onclick="openModal('sketch.jpg', '鉛筆素描', '在黑白灰的線條交織中，觀察光影的變化，讓心境沉澱。')" class="px-3.5 py-2 bg-white text-gray-700 rounded-lg text-sm border border-gray-200 hover:bg-gray-900 hover:text-white hover:border-gray-900 hover:-translate-y-1 transition-all duration-300 inline-flex items-center shadow-sm hover:shadow-md group"><i class="fa-solid fa-pencil mr-1.5"></i>鉛筆素描 <i class="fa-solid fa-magnifying-glass-plus text-[10px] ml-1.5 opacity-30 group-hover:opacity-100"></i></button>
+                            <button onclick="openModal('acrylic.jpg', '壓克力彩繪', '色彩的碰撞與堆疊，是我表達內在情緒最直接的方式。')" class="px-3.5 py-2 bg-white text-gray-700 rounded-lg text-sm border border-gray-200 hover:bg-gray-900 hover:text-white hover:border-gray-900 hover:-translate-y-1 transition-all duration-300 inline-flex items-center shadow-sm hover:shadow-md group"><i class="fa-solid fa-brush mr-1.5"></i>壓克力彩繪 <i class="fa-solid fa-magnifying-glass-plus text-[10px] ml-1.5 opacity-30 group-hover:opacity-100"></i></button>
+                            <button onclick="openModal('boardgame.jpg', '桌遊愛好', '透過桌遊與朋友鬥智鬥勇，享受充滿歡笑與策略的聚會時光。')" class="px-3.5 py-2 bg-white text-gray-700 rounded-lg text-sm border border-gray-200 hover:bg-gray-900 hover:text-white hover:border-gray-900 hover:-translate-y-1 transition-all duration-300 inline-flex items-center shadow-sm hover:shadow-md group"><i class="fa-solid fa-dice mr-1.5"></i>桌遊愛好 <i class="fa-solid fa-magnifying-glass-plus text-[10px] ml-1.5 opacity-30 group-hover:opacity-100"></i></button>
+                            <button onclick="openModal('videogame.jpg', '電玩遊戲', '沉浸在虛擬世界的冒險中，是釋放壓力、體驗不同人生的最佳途徑。')" class="px-3.5 py-2 bg-white text-gray-700 rounded-lg text-sm border border-gray-200 hover:bg-gray-900 hover:text-white hover:border-gray-900 hover:-translate-y-1 transition-all duration-300 inline-flex items-center shadow-sm hover:shadow-md group"><i class="fa-solid fa-gamepad mr-1.5"></i>電玩遊戲 <i class="fa-solid fa-magnifying-glass-plus text-[10px] ml-1.5 opacity-30 group-hover:opacity-100"></i></button>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+        </section>
+
+        <section class="md:col-span-3 glass-card rounded-3xl p-8 bg-white border border-gray-200 mt-2 shadow-sm" aria-label="私房推薦與資源分享">
+            <div class="flex items-center gap-3 mb-6 text-gray-900">
+                <i class="fa-solid fa-heart text-2xl accent-color"></i>
+                <h3 class="text-2xl font-bold">私房推薦</h3>
+                <span class="text-sm text-gray-400 ml-2 hidden sm:inline">好資源就該與好朋友分享</span>
+            </div>
+            
+            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+                <article class="flex flex-col h-full bg-gray-50 rounded-2xl p-6 border border-gray-200 shadow-sm hover:shadow-lg hover:-translate-y-1 hover:bg-gray-900 hover:border-gray-900 transition-all duration-300 group">
+                    <div class="w-12 h-12 rounded-full bg-white text-gray-800 flex items-center justify-center text-xl mb-4 group-hover:bg-gray-800 group-hover:text-white transition-colors border border-gray-200 group-hover:border-gray-700 flex-shrink-0">
+                        <i class="fa-solid fa-jar"></i>
+                    </div>
+                    <h4 class="font-bold text-lg text-gray-900 mb-1 group-hover:text-white transition-colors whitespace-nowrap">天然蜂蜜</h4>
+                    <p class="text-xs font-bold text-gray-500 mb-3 border-b border-gray-200 pb-2 group-hover:border-gray-700 group-hover:text-gray-400 transition-colors">爸爸的養蜂日常</p>
+                    <p class="text-sm text-gray-600 mb-5 flex-grow group-hover:text-gray-300 transition-colors">堅持天然採收，品嚐大自然最純粹的甜蜜。</p>
+                    <a href="https://forms.gle/j8rbinsMHf3kpctH6" target="_blank" class="mt-auto inline-block w-full text-center px-4 py-2 bg-white text-gray-800 rounded-lg text-sm font-bold transition-colors border border-gray-300 group-hover:bg-gray-800 group-hover:text-white group-hover:border-gray-700 hover:brightness-110">
+                        <i class="fa-solid fa-clipboard-list mr-1"></i> 填寫訂購表單
+                    </a>
+                </article>
+
+                <article class="flex flex-col h-full bg-gray-50 rounded-2xl p-6 border border-gray-200 shadow-sm hover:shadow-lg hover:-translate-y-1 hover:bg-gray-900 hover:border-gray-900 transition-all duration-300 group">
+                    <div class="w-12 h-12 rounded-full bg-white text-gray-800 flex items-center justify-center text-xl mb-4 group-hover:bg-gray-800 group-hover:text-white transition-colors border border-gray-200 group-hover:border-gray-700 flex-shrink-0">
+                        <i class="fa-solid fa-house-chimney-user"></i>
+                    </div>
+                    <h4 class="font-bold text-lg text-gray-900 mb-1 group-hover:text-white transition-colors whitespace-nowrap">房仲顧問</h4>
+                    <p class="text-xs font-bold text-gray-500 mb-3 border-b border-gray-200 pb-2 group-hover:border-gray-700 group-hover:text-gray-400 transition-colors">最靠譜的親哥推薦</p>
+                    <p class="text-sm text-gray-600 mb-5 flex-grow group-hover:text-gray-300 transition-colors">提供買賣租賃服務，誠信透明的房地產諮詢。</p>
+                    <a href="https://line.me/ti/p/nR-nlUJD7l" target="_blank" class="mt-auto inline-block w-full text-center px-4 py-2 bg-white text-gray-800 rounded-lg text-sm font-bold transition-colors border border-gray-300 group-hover:bg-gray-800 group-hover:text-white group-hover:border-gray-700 hover:brightness-110">
+                        <i class="fa-brands fa-line mr-1 group-hover:text-white transition-colors"></i> 加 LINE 聯繫
+                    </a>
+                </article>
+
+                <article class="flex flex-col h-full bg-gray-50 rounded-2xl p-6 border border-gray-200 shadow-sm hover:shadow-lg hover:-translate-y-1 hover:bg-gray-900 hover:border-gray-900 transition-all duration-300 group">
+                    <div class="w-12 h-12 rounded-full bg-white text-gray-800 flex items-center justify-center text-xl mb-4 group-hover:bg-gray-800 group-hover:text-white transition-colors border border-gray-200 group-hover:border-gray-700 flex-shrink-0">
+                        <i class="fa-solid fa-hand-sparkles"></i>
+                    </div>
+                    <h4 class="font-bold text-lg text-gray-900 mb-1 group-hover:text-white transition-colors whitespace-nowrap">精緻美甲</h4>
+                    <p class="text-xs font-bold text-gray-500 mb-3 border-b border-gray-200 pb-2 group-hover:border-gray-700 group-hover:text-gray-400 transition-colors">大嫂的魔法指尖</p>
+                    <p class="text-sm text-gray-600 mb-5 flex-grow group-hover:text-gray-300 transition-colors">注重細節的凝膠美甲，近中和南勢角捷運站。</p>
+                    <a href="https://www.instagram.com/kfj_nail?igsh=bHZtM2ExN2lzZWNm" target="_blank" class="mt-auto inline-block w-full text-center px-4 py-2 bg-white text-gray-800 rounded-lg text-sm font-bold transition-colors border border-gray-300 group-hover:bg-gray-800 group-hover:text-white group-hover:border-gray-700 hover:brightness-110">
+                        <i class="fa-brands fa-instagram mr-1"></i> 預約 KFJ Nail
+                    </a>
+                </article>
+
+                <article class="flex flex-col h-full bg-gray-50 rounded-2xl p-6 border border-gray-200 shadow-sm hover:shadow-lg hover:-translate-y-1 hover:bg-gray-900 hover:border-gray-900 transition-all duration-300 group">
+                    <div class="w-12 h-12 rounded-full bg-white text-gray-800 flex items-center justify-center text-xl mb-4 group-hover:bg-gray-800 group-hover:text-white transition-colors border border-gray-200 group-hover:border-gray-700 flex-shrink-0">
+                        <i class="fa-solid fa-burger"></i>
+                    </div>
+                    <h4 class="font-bold text-lg text-gray-900 mb-1 group-hover:text-white transition-colors whitespace-nowrap">美式漢堡</h4>
+                    <p class="text-xs font-bold text-gray-500 mb-3 border-b border-gray-200 pb-2 group-hover:border-gray-700 group-hover:text-gray-400 transition-colors">堂哥的板橋人氣餐廳</p>
+                    <p class="text-sm text-gray-600 mb-5 flex-grow group-hover:text-gray-300 transition-colors">板橋人氣聚餐首選，主打多汁的純手作肉排。</p>
+                    <a href="https://maps.app.goo.gl/Yko8J2VZb8rtUYLG9" target="_blank" class="mt-auto inline-block w-full text-center px-4 py-2 bg-white text-gray-800 rounded-lg text-sm font-bold transition-colors border border-gray-300 group-hover:bg-gray-800 group-hover:text-white group-hover:border-gray-700 hover:brightness-110">
+                        <i class="fa-solid fa-map-location-dot mr-1"></i> 導航 品嚐美式漢堡
+                    </a>
+                </article>
+            </div>
+        </section>
+
+        <section class="md:col-span-3 glass-card rounded-3xl p-8 bg-gray-900 text-white mt-2 border border-gray-800 shadow-xl relative overflow-hidden" aria-label="聯絡資訊">
+            <div class="absolute inset-0 bg-gradient-to-r from-gray-800 via-gray-900 to-black opacity-50"></div>
+            <div class="relative z-10 flex flex-col md:flex-row justify-between items-center gap-6">
+                <div>
+                    <h3 class="text-3xl font-extrabold mb-1 tracking-wider text-white">Let's Connect</h3>
+                    <p class="text-gray-400 text-sm md:text-base mt-2">歡迎交流社會工作、專案管理、極限探索或生活日常！</p>
+                </div>
+                <div class="flex flex-wrap gap-3 justify-center">
+                    <button onclick="copyEmail()" class="px-5 py-3 bg-white text-gray-900 rounded-full font-bold flex items-center gap-2.5 hover:bg-gray-200 transition-all duration-300 shadow-lg text-sm">
+                        <i class="fa-solid fa-envelope text-lg text-gray-800"></i>
+                        <span>T0957.2020@gmail.com</span>
+                    </button>
+                    
+                    <a href="https://www.instagram.com/come_1121211?igsh=bzFvemZyeXZvOWlm" target="_blank" class="px-5 py-3 bg-white text-gray-900 rounded-full font-bold flex items-center gap-2.5 hover:bg-gray-200 transition-all duration-300 shadow-lg text-sm">
+                        <i class="fa-brands fa-instagram text-xl text-gray-800"></i>
+                        <span>貓兒子布萊日常</span>
+                    </a>
+
+                    <a href="https://line.me/ti/p/~gan970410" target="_blank" class="px-5 py-3 bg-white text-gray-900 rounded-full font-bold flex items-center gap-2.5 hover:bg-gray-200 transition-all duration-300 shadow-lg text-sm">
+                        <i class="fa-brands fa-line text-xl text-gray-800"></i>
+                        <span>LINE ID: gan970410</span>
+                    </a>
+                </div>
+            </div>
+        </section>
+
+        <footer class="md:col-span-3 flex justify-center items-center mt-4 mb-2">
+            <div class="flex flex-col items-center gap-2 opacity-60 hover:opacity-100 transition-opacity duration-300">
+                <span class="text-xs text-gray-400 font-bold tracking-widest">累積造訪人次</span>
+                <img src="https://hits.sh/chienlienching.resume.tiiny.site.svg?label=VIEWS&color=d46c75&labelColor=111827" alt="簡廉靜個人品牌履歷累積造訪人次" loading="lazy" class="rounded shadow-sm">
+            </div>
+        </footer>
+
+    </main>
+
+    <button id="ai-chat-btn" onclick="toggleAIChat()" class="fixed bottom-6 right-6 w-14 h-14 bg-gray-900 text-white rounded-full shadow-2xl flex items-center justify-center hover:bg-[#d46c75] hover:-translate-y-1 transition-all duration-300 z-40 group border-2 border-white">
+        <i class="fa-solid fa-sparkles text-xl group-hover:animate-pulse"></i>
+    </button>
+
+    <div id="ai-chat-window" class="fixed bottom-24 right-6 w-80 sm:w-96 bg-white rounded-2xl shadow-2xl border border-gray-200 z-40 hidden flex-col overflow-hidden transition-all duration-300 origin-bottom-right">
+        <div class="bg-gray-900 text-white p-4 flex justify-between items-center shadow-md z-10">
+            <div class="flex items-center gap-2">
+                <i class="fa-solid fa-robot text-[#d46c75]"></i>
+                <h3 class="font-bold text-sm tracking-wide">AI 履歷專屬助理</h3>
+            </div>
+            <button onclick="toggleAIChat()" class="text-gray-400 hover:text-white transition-colors">
+                <i class="fa-solid fa-xmark text-lg"></i>
+            </button>
+        </div>
+        <div id="ai-chat-messages" class="p-4 h-80 overflow-y-auto flex flex-col gap-3 bg-gray-50 text-sm">
+            <div class="self-start bg-white border border-gray-200 p-3 rounded-2xl rounded-tl-sm shadow-sm text-gray-700 max-w-[85%] leading-relaxed">
+                你好！👋 我是簡廉靜的 AI 專屬助手。<br>關於她的<strong>社工經歷</strong>、<strong>專案管理</strong>，或是<strong>極限運動</strong>等愛好，你有什麼想了解的嗎？
+            </div>
+        </div>
+        <div class="p-3 bg-white border-t border-gray-200 flex gap-2 items-center">
+            <input type="text" id="ai-chat-input" placeholder="輸入您的問題..." class="flex-1 px-4 py-2.5 rounded-xl border border-gray-300 focus:outline-none focus:border-[#d46c75] focus:ring-1 focus:ring-[#d46c75] text-sm bg-gray-50" onkeypress="handleAIChatKeyPress(event)">
+            <button onclick="sendAIChatMessage()" class="w-10 h-10 bg-gray-900 text-white rounded-xl flex items-center justify-center hover:bg-[#d46c75] transition-colors shadow-sm">
+                <i class="fa-solid fa-paper-plane"></i>
+            </button>
+        </div>
+    </div>
+
+    <div id="imageModal" class="fixed inset-0 z-50 hidden flex justify-center items-center p-4">
+        <div class="absolute inset-0 bg-black/90 backdrop-blur-sm transition-opacity duration-300 opacity-0" id="modalBackdrop" onclick="closeModal()"></div>
+        
+        <div class="bg-white rounded-3xl max-w-2xl w-full overflow-hidden relative z-10 transform scale-95 transition-all duration-300 opacity-0 shadow-2xl" id="modalContent">
+            
+            <button id="modalPrevBtn" onclick="prevMedia(event)" class="absolute left-3 top-1/2 transform -translate-y-1/2 bg-black/40 hover:bg-black/80 text-white rounded-full w-10 h-10 flex items-center justify-center transition-colors z-40 hidden">
+                <i class="fa-solid fa-chevron-left text-lg pr-0.5"></i>
+            </button>
+            <button id="modalNextBtn" onclick="nextMedia(event)" class="absolute right-3 top-1/2 transform -translate-y-1/2 bg-black/40 hover:bg-black/80 text-white rounded-full w-10 h-10 flex items-center justify-center transition-colors z-40 hidden">
+                <i class="fa-solid fa-chevron-right text-lg pl-0.5"></i>
+            </button>
+
+            <button onclick="closeModal()" class="absolute top-4 right-4 bg-black/60 hover:bg-black/90 text-white rounded-full w-10 h-10 flex items-center justify-center transition-colors z-40">
+                <i class="fa-solid fa-xmark text-xl"></i>
+            </button>
+            
+            <div class="w-full h-64 sm:h-80 bg-black relative flex items-center justify-center overflow-hidden">
+                
+                <div class="absolute inset-0 z-30 pointer-events-none select-none flex items-center justify-center opacity-10 overflow-hidden">
+                    <p class="text-white font-black tracking-[0.3em] text-4xl sm:text-6xl -rotate-12 whitespace-nowrap drop-shadow-md">
+                        CHIEN LIEN CHING
+                    </p>
+                </div>
+
+                <div class="absolute bottom-3 right-4 z-30 pointer-events-none select-none opacity-60">
+                    <p class="text-white font-bold tracking-[0.1em] text-[10px] sm:text-xs drop-shadow-[0_1px_2px_rgba(0,0,0,0.8)]">
+                        © CHIEN LIEN CHING
+                    </p>
+                </div>
+
+                <img id="modalImage" src="" alt="簡廉靜的多元生活體驗與專業紀錄" loading="lazy" class="w-full h-full object-contain transition-opacity duration-300 hidden absolute inset-0 z-10">
+                <video id="modalVideo" src="" class="w-full h-full object-contain transition-opacity duration-300 hidden absolute inset-0 z-10" controls autoplay muted playsinline></video>
+                
+                <div id="modalImageFallback" class="absolute inset-0 flex flex-col items-center justify-center text-gray-500 bg-gray-900 hidden z-0">
+                    <i class="fa-solid fa-photo-film text-5xl mb-2"></i>
+                    <p class="text-sm mt-3 font-bold tracking-wider">等待素材上傳中...</p>
+                </div>
+            </div>
+            
+            <div class="p-6 md:p-8">
+                <h3 id="modalTitle" class="text-2xl font-bold text-gray-900 mb-3 border-l-4 border-gray-800 pl-3">標題</h3>
+                <p id="modalDescription" class="text-gray-600 leading-relaxed text-[1.05rem]">心得說明...</p>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function copyEmail() {
+            const email = "T0957.2020@gmail.com";
+            const tempInput = document.createElement("input");
+            tempInput.value = email;
+            document.body.appendChild(tempInput);
+            tempInput.select();
+            document.execCommand("copy");
+            document.body.removeChild(tempInput);
+
+            const toast = document.getElementById("toast");
+            toast.classList.remove("opacity-0", "translate-y-[-20px]");
+            toast.classList.add("translate-y-0");
+            
+            setTimeout(() => {
+                toast.classList.add("opacity-0", "translate-y-[-20px]");
+                toast.classList.remove("translate-y-0");
+            }, 2500);
+        }
+
+        let slideTimeout;
+        let currentMediaList = [];
+        let currentMediaIndex = 0;
+
+        function isVideo(filename) {
+            return filename.toLowerCase().match(/\.(mp4|webm|mov|ogg)$/i);
+        }
+
+        function openModal(mediaSource, title, description) {
+            const modal = document.getElementById('imageModal');
+            const backdrop = document.getElementById('modalBackdrop');
+            const content = document.getElementById('modalContent');
+            const vid = document.getElementById('modalVideo');
+            const mTitle = document.getElementById('modalTitle');
+            const mDesc = document.getElementById('modalDescription');
+
+            clearTimeout(slideTimeout);
+            vid.pause();
+            vid.onended = null;
+
+            if (Array.isArray(mediaSource)) {
+                currentMediaList = mediaSource;
+            } else {
+                currentMediaList = [mediaSource];
+            }
+            currentMediaIndex = 0;
+
+            mTitle.innerText = title;
+            mDesc.innerText = description;
+
+            updateMedia();
+
+            modal.classList.remove('hidden');
+            setTimeout(() => {
+                backdrop.classList.remove('opacity-0');
+                content.classList.remove('opacity-0', 'scale-95');
+                content.classList.add('opacity-100', 'scale-100');
+            }, 10);
+        }
+
+        function updateMedia() {
+            if (currentMediaList.length === 0) return;
+            const src = currentMediaList[currentMediaIndex];
+            
+            const img = document.getElementById('modalImage');
+            const vid = document.getElementById('modalVideo');
+            const fallback = document.getElementById('modalImageFallback');
+            const prevBtn = document.getElementById('modalPrevBtn');
+            const nextBtn = document.getElementById('modalNextBtn');
+            
+            img.classList.add('hidden');
+            vid.classList.add('hidden');
+            fallback.classList.add('hidden');
+
+            if (currentMediaList.length > 1) {
+                prevBtn.classList.remove('hidden');
+                nextBtn.classList.remove('hidden');
+            } else {
+                prevBtn.classList.add('hidden');
+                nextBtn.classList.add('hidden');
+            }
+
+            if (isVideo(src)) {
+                vid.src = src;
+                vid.classList.remove('hidden', 'opacity-0');
+                vid.loop = (currentMediaList.length === 1);
+                vid.play().catch(e => console.log("影片自動播放可能被阻擋:", e));
+                
+                if (currentMediaList.length > 1) {
+                    vid.onended = () => { fadeAndNext(); };
+                }
+            } else {
+                img.src = src;
+                img.classList.remove('hidden', 'opacity-0');
+                
+                if (currentMediaList.length > 1) {
+                    slideTimeout = setTimeout(fadeAndNext, 3000); 
+                }
+            }
+
+            img.onerror = function() {
+                img.classList.add('hidden');
+                fallback.classList.remove('hidden');
+                if (currentMediaList.length > 1) {
+                    slideTimeout = setTimeout(fadeAndNext, 3000);
+                }
+            };
+        }
+
+        function nextMedia(e) {
+            if (e) e.stopPropagation();
+            clearTimeout(slideTimeout); 
+            const img = document.getElementById('modalImage');
+            const vid = document.getElementById('modalVideo');
+            img.classList.add('opacity-0');
+            vid.classList.add('opacity-0');
+            setTimeout(() => {
+                currentMediaIndex = (currentMediaIndex + 1) % currentMediaList.length;
+                updateMedia();
+            }, 200);
+        }
+
+        function prevMedia(e) {
+            if (e) e.stopPropagation();
+            clearTimeout(slideTimeout); 
+            const img = document.getElementById('modalImage');
+            const vid = document.getElementById('modalVideo');
+            img.classList.add('opacity-0');
+            vid.classList.add('opacity-0');
+            setTimeout(() => {
+                currentMediaIndex = (currentMediaIndex - 1 + currentMediaList.length) % currentMediaList.length;
+                updateMedia();
+            }, 200);
+        }
+
+        function fadeAndNext() {
+            const img = document.getElementById('modalImage');
+            const vid = document.getElementById('modalVideo');
+            img.classList.add('opacity-0');
+            vid.classList.add('opacity-0');
+            
+            setTimeout(() => {
+                currentMediaIndex = (currentMediaIndex + 1) % currentMediaList.length;
+                updateMedia();
+            }, 300);
+        }
+
+        function closeModal() {
+            const modal = document.getElementById('imageModal');
+            const backdrop = document.getElementById('modalBackdrop');
+            const content = document.getElementById('modalContent');
+            const vid = document.getElementById('modalVideo');
+
+            clearTimeout(slideTimeout);
+            vid.pause();
+            vid.src = "";
+
+            backdrop.classList.add('opacity-0');
+            content.classList.remove('opacity-100', 'scale-100');
+            content.classList.add('opacity-0', 'scale-95');
+
+            setTimeout(() => {
+                modal.classList.add('hidden');
+            }, 300);
+        }
+
+        // 請注意：若要讓 AI 助理生效，未來需填入有效的 Google Gemini API Key
+        const apiKey = ""; 
+
+        function toggleAIChat() {
+            const chatWindow = document.getElementById('ai-chat-window');
+            if (chatWindow.classList.contains('hidden')) {
+                chatWindow.classList.remove('hidden');
+                chatWindow.classList.add('flex');
+            } else {
+                chatWindow.classList.add('hidden');
+                chatWindow.classList.remove('flex');
+            }
+        }
+
+        async function fetchWithRetry(url, options, maxRetries = 5) {
+            const delays = [1000, 2000, 4000, 8000, 16000];
+            for (let i = 0; i < maxRetries; i++) {
+                try {
+                    const response = await fetch(url, options);
+                    if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
+                    return await response.json();
+                } catch (error) {
+                    if (i === maxRetries - 1) throw error;
+                    await new Promise(res => setTimeout(res, delays[i]));
+                }
+            }
+        }
+
+        function handleAIChatKeyPress(event) {
+            if (event.key === 'Enter') sendAIChatMessage();
+        }
+
+        function appendMessage(role, content) {
+            const messagesDiv = document.getElementById('ai-chat-messages');
+            const msgDiv = document.createElement('div');
+            
+            if (role === 'user') {
+                msgDiv.className = 'self-end bg-gray-900 text-white p-3 rounded-2xl rounded-tr-sm shadow-sm max-w-[85%] leading-relaxed';
+                msgDiv.textContent = content;
+            } else {
+                msgDiv.className = 'self-start bg-white border border-gray-200 p-3 rounded-2xl rounded-tl-sm shadow-sm text-gray-700 max-w-[85%] leading-relaxed ai-markdown-content';
+                msgDiv.innerHTML = typeof marked !== 'undefined' ? marked.parse(content) : content;
+            }
+            
+            messagesDiv.appendChild(msgDiv);
+            messagesDiv.scrollTop = messagesDiv.scrollHeight;
+            return msgDiv;
+        }
+
+        async function sendAIChatMessage() {
+            const inputEl = document.getElementById('ai-chat-input');
+            const message = inputEl.value.trim();
+            if (!message) return;
+
+            appendMessage('user', message);
+            inputEl.value = '';
+            inputEl.disabled = true;
+
+            const loadingMsg = appendMessage('assistant', '<i class="fa-solid fa-circle-notch fa-spin text-[#d46c75]"></i> 思考中...');
+
+            const systemPrompt = `你現在是簡廉靜（毒防中心督導、PMP專案管理師、熱愛潛水/滑雪/攀岩/溯溪等極限運動與藍染/皮雕藝術手作的社工，喜歡打電玩和玩桌遊）的專屬 AI 履歷助理。
+請以專業、友善且精煉的語氣（繁體中文），回答訪客關於簡廉靜背景、技能或經歷的問題。
+每次回答請盡量控制在 100 字以內，適當使用 Emoji，並善用 Markdown 格式標示重點。`;
+
+            try {
+                const response = await fetchWithRetry(
+                    `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-09-2025:generateContent?key=${apiKey}`,
+                    {
+                        method: 'POST',
+                        headers: { 'Content-Type': 'application/json' },
+                        body: JSON.stringify({
+                            contents: [{ parts: [{ text: message }] }],
+                            systemInstruction: { parts: [{ text: systemPrompt }] }
+                        })
+                    }
+                );
+
+                const text = response.candidates?.[0]?.content?.parts?.[0]?.text;
+                
+                if (text) {
+                    loadingMsg.innerHTML = typeof marked !== 'undefined' ? marked.parse(text) : text;
+                } else {
+                    throw new Error("無法取得 AI 回應");
+                }
+            } catch (error) {
+                console.error(error);
+                loadingMsg.innerHTML = '<i class="fa-solid fa-triangle-exclamation text-red-500 mr-1"></i> 哎呀，連線似乎有點問題，請稍後再試！';
+            } finally {
+                inputEl.disabled = false;
+                inputEl.focus();
+                const messagesDiv = document.getElementById('ai-chat-messages');
+                messagesDiv.scrollTop = messagesDiv.scrollHeight;
+            }
+        }
+    </script>
+</body>
+</html>
